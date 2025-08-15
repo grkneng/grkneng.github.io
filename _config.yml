@@ -1,0 +1,45 @@
+title: "Teknik Dokümantasyon"
+description: "Markdown ile hazırlanmış teknik dokümantasyon örneği."
+author: "Gürkan"
+theme: jekyll-theme-cayman
+
+# Site URL ayarları
+# Kullanıcı sitesi için:
+# url: "https://<kullanıcı-adın>.github.io"
+# baseurl: ""
+#
+# Proje sitesi için:
+# url: "https://<kullanıcı-adın>.github.io"
+# baseurl: "/<repo-adın>"
+url: "https://grkneng.github.io"
+baseurl: ""
+
+# Zaman dilimi ve Markdown
+timezone: Europe/Istanbul
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+
+# Post URL yapısı
+permalink: /posts/:title/
+
+# GitHub Pages'ın desteklediği eklentiler
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Varsayılan yerleşim
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
+
+exclude:
+  - README.md
