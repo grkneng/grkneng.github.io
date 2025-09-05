@@ -1,0 +1,32 @@
+---
+title: "Yeni Bir Gün"
+date: 2025-09-05
+tags: [markdown, jekyll, github-pages]
+---
+
+# Tasarım Ortamı
+
+Sabah gaflet, delalet yorgunluk ve uykusuzluk yüzünden vahim bir hata yaptım. Bilgisayar kullanırken simetri hastalarına benziyorum. 
+
+## Kontrolller
+
+- [x] node 22.17 
+- [x] npm 11.5
+- [x] Git 2.5
+- [x] python 3.13 
+- [x] Visual Studio Code
+
+## Kaldırılanlar
+
+- [x] pinokio 3.9 (Stable Diffusion + Face Fusion)
+- [x] MiniConda
+
+## Yüklenenler
+
+- [x] Flask
+
+Dip Not : python dahili HTTP sunucusu için; 
+
+```bash 
+python -m http.server 8000
+```

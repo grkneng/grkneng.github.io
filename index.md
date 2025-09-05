@@ -2,12 +2,12 @@
 title: Ana Sayfa
 ---
 
-# 📄 Teknik Dokümantasyon Sitesi
+# 📄 Denemeler & Yanılmalar
 
 Bu site **GitHub Pages** ve **Jekyll** kullanılarak oluşturulmuştur.
 Markdown dosyaları otomatik olarak HTML'e dönüştürülür.
 
-## 🚀 Başlangıç
+## 🚀 Amaç
 - Soldaki/üstteki başlıktan sayfalar arasında gezinebilirsiniz.
 - Kod örnekleri syntax highlight ile gösterilir.
 
