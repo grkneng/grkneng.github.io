@@ -1,6 +1,6 @@
 title: Nexus Harmony
 author: Gürkan Engin
 description: Karalama Defteri
-theme: jekyll-theme-cayman
+theme: minima  # Varsayılan GitHub Pages theme'lerinden biri (diğer seçenekler: cayman, hacker vb.)
 plugins:
   - jekyll-feed  # Opsiyonel: RSS feed için
