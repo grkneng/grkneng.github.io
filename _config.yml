@@ -1,6 +1,6 @@
 title: Nexus Harmony
 author: Gürkan Engin
 description: Karalama Defteri
-theme: minima 
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed  # Opsiyonel: RSS feed için
